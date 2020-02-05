@@ -1,5 +1,6 @@
 # Vietnamese Punctuation Prediction Using Deep Neural Networks
-(link paper)
+
+Our paper can be found at https://link.springer.com/chapter/10.1007/978-3-030-38919-2_32.
 
 In this paper, we have studied the punctuation prediction problem for the Vietnamese language. We collect two large-scale datasets and conduct extensive experiments with both traditional method (using CRF models) and a deep learning approach.
 
