@@ -33,6 +33,8 @@ Vietnamese Novels (https://gacsach.com/tac-gia/nguyen-nhat-anh.html)
 
 Embeddings: Word2vec vectors for vietnamese (fasttext) ( You can download cc.vi.300.vec at https://fasttext.cc/docs/en/crawl-vectors.html)
 
+All requests related to the dataset can sent to the corresponding author via email at ngtbinh@hcmus.edu.vn.
+
 # Usage
 All the configurations are put in the train_[model's name]_model.py with
  - train_BiLSTM_Attention_focal_loss_model.py: BiLSTM + Attention model with focal loss
